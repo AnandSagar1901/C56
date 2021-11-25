@@ -1,0 +1,15 @@
+body{
+    background-color:white;
+    text-align:center;
+  }
+  h1{
+    text-align:center;
+    color:black
+  }
+  #album{
+    border-bottom:3px solid #689F38;
+    padding:2px;
+    height:400px;
+    width:400px;
+  }
+  
